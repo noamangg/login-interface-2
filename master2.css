@@ -1,0 +1,59 @@
+header ul li:last-child a{
+  color: #1d4ed8;
+}
+table {
+  width: 100%;
+  text-align: center;
+
+}
+
+th {
+  padding: 15px 0px;
+  color: #1d4ed8;
+  background-color: #f9fafc;
+
+  text-transform: capitalize;
+}
+tbody tr {
+  height: 40px;
+
+}
+button  {
+  width: 50px;
+  height: 20px;
+
+  cursor: pointer;
+}
+
+button:hover {
+  width: 55px;
+  height: 30px;
+  
+}
+button:first-child {
+  background-color: #1d4ed8;
+  border: none;
+  color: white;
+  border-radius: 2px;
+}
+button:last-child {
+  background-color: rgb(255, 62, 62);
+  border: none;
+  color: white;
+  border-radius: 2px;
+}
+
+thead {
+  background-color: #fcfcfc;
+
+
+}
+tr {
+  background-color: #fdfdfd;
+
+}
+td {
+  padding: 20px;
+}
+
+
